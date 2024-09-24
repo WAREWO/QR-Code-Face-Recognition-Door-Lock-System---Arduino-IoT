@@ -70,9 +70,4 @@ Untuk membangun proyek ini, Anda memerlukan komponen berikut:
 ## Kontribusi
 Kontribusi sangat disambut! Jangan ragu untuk membuka issue atau mengirimkan pull request untuk meningkatkan fungsionalitas proyek ini.
 
-## Lisensi
-Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file LICENSE untuk informasi lebih lanjut.
-
----
-
-Template ini bisa kamu modifikasi sesuai kebutuhan dan struktur spesifik dari proyekmu.
+credit: Amal4m41
